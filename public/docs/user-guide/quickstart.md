@@ -2,7 +2,6 @@
 id: quickstart
 label: Quickstart Guide
 -----
-
 # Quickstart
 
 This page will guide you through setting up your Mind the Docs documentation site!
@@ -17,9 +16,6 @@ This is step 1 do this:
     - Step 4
     - Step 5
 
-## This is a table
+### Other fancy stuff
 
-| Heading 1 | Heading 2 |
-|---|---|
-| Cell 1 | Cell 2 |
-| Cell 3 | Cell 4 |
+![Image](https://i.imgur.com/Pr7AKdW.jpeg)
